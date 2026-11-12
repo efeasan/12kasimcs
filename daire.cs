@@ -4,6 +4,11 @@ public class Daire
 {
     double yaricap;
 
+    public Daire()
+    {
+        DegerAl();
+    }
+
     public void DegerAl()
     {
         Console.Write("Dairenin yaricapini giriniz: ");

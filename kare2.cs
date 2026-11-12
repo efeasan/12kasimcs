@@ -1,16 +1,20 @@
 namespace alanb;
 
-public class Kare
+class Kare
 {
     double kenar;
 
+    public Kare()
+    {
+        DegerAl();
+    }
     public void DegerAl()
     {
-        Console.Write("Karenin kenarini giriniz: ");
+        Console.WriteLine("Karenin kenarini giriniz: ");
         kenar = Convert.ToDouble(Console.ReadLine());
-        while (kenar <= 0)
+        while(kenar <= 0)
         {
-            Console.Write("Pozitif sayi giriniz: ");
+            Console.WriteLine("Pozitif sayi giriniz: ");
             kenar = Convert.ToDouble(Console.ReadLine());
         }
     }

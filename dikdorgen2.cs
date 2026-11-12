@@ -1,10 +1,15 @@
 namespace alanb;
 
-public class Dikdortgen
+class Dikdortgen
 {
     double kisaKenar;
     double uzunKenar;
 
+    public Dikdortgen()
+    {
+        DegerAl();
+    }
+    
     public void DegerAl()
     {
         Console.Write("Dikdortgenin kisa kenarini giriniz: ");
