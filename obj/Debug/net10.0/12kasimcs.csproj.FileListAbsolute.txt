@@ -12,3 +12,4 @@ C:\Users\efe\Documents\GitHub\12kasimcs\obj\Debug\net10.0\refint\12kasimcs.dll
 C:\Users\efe\Documents\GitHub\12kasimcs\obj\Debug\net10.0\12kasimcs.pdb
 C:\Users\efe\Documents\GitHub\12kasimcs\obj\Debug\net10.0\12kasimcs.genruntimeconfig.cache
 C:\Users\efe\Documents\GitHub\12kasimcs\obj\Debug\net10.0\ref\12kasimcs.dll
+C:\Users\efe\Documents\GitHub\12kasimcs\obj\Debug\net10.0\12kasimcs.sourcelink.json

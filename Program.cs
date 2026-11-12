@@ -5,7 +5,6 @@ class Program
     static void Main(string[] args)
     {
         Kare kare = new Kare();
-        
         kare.EkranaYazdir();
 
         Dikdortgen dikdortgen = new Dikdortgen();
